@@ -1,4 +1,4 @@
-# 👨‍💻 Jibin Thomas | MCA @ Kristu Jayanti College
+# 👨‍💻 Jibin Thomas | MCA @ Kristu Jayanti University, Bengaluru
 
 <p align="left">
   <a href="https://linkedin.com/in/jibinkodiyamkunnel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -8,11 +8,11 @@
 ---
 
 ### 🚀 About Me
-[cite_start]I am a **Software Developer** focused on bridging the gap between AI research and real-world deployment. [cite_start]Currently pursuing my **Masters of Computer Application**, I build systems that range from predictive analytics to interactive 3D learning environments.
+I am a **Software Developer** focused on bridging the gap between AI research and real-world deployment. [cite_start]Currently pursuing my **Masters of Computer Application**, I build systems that range from predictive analytics to interactive 3D learning environments.
 
-- [cite_start]🧠 **AI & ML:** Engineered "Hydro-Predict" achieving **81% prediction accuracy** for dam water levels.
-- [cite_start]🌐 **Full-Stack:** Architected responsive dashboards using **React.js** and **PostgreSQL**.
-- [cite_start]📱 **Mobile:** Developed location-based solutions for pet adoption and workspace scheduling.
+- 🧠 **AI & ML:** Engineered "Hydro-Predict" achieving **81% prediction accuracy** for dam water levels.
+- 🌐 **Full-Stack:** Architected responsive dashboards using **React.js** and **PostgreSQL**.
+- 📱 **Mobile:** Developed location-based solutions for pet adoption and workspace scheduling.
 
 ---
 
@@ -27,28 +27,23 @@
 ---
 
 ### 📜 Professional Certifications
-* [cite_start]**Cloud:** Microsoft Certified Azure Fundamentals (AZ-900) & AWS Academy Cloud Developing.
-* [cite_start]**Intelligence:** Oracle Certified AI Foundations Associate.
-* [cite_start]**Security:** Google Cybersecurity Professional Certificate.
+* **Cloud:** Microsoft Certified Azure Fundamentals (AZ-900) & AWS Academy Cloud Developing.
+* **Intelligence:** Oracle Certified AI Foundations Associate.
+* **Security:** Google Cybersecurity Professional Certificate.
 
 ---
 
 ### 🏗️ Featured Impact Projects
 
 #### [MENTORA - Intelligent Avatar-Based Learning](https://github.com/jibinthomas1211/MENTORA-Intelligent-Avatar-Based-Learning-System)
-> [cite_start]*Architected an AI platform featuring interactive 3D avatars with real-time attention-tracking logic*.
+> *Architected an AI platform featuring interactive 3D avatars with real-time attention-tracking logic*.
 
 #### [Hydro-Predict AI System](https://github.com/jibinthomas1211/AI-Assistant)
-> [cite_start]*Utilized XGBoost and historical data pipelines to optimize water resource management*.
+> *Utilized XGBoost and historical data pipelines to optimize water resource management*.
 
 #### [CabinSync - Workspace Optimizer](https://github.com/jibinthomas1211/CabinSync)
-> [cite_start]*Real-time office scheduling system built with Kotlin and Firebase for instant synchronization*.
+> *Real-time office scheduling system built with Kotlin and Firebase for instant synchronization*.
 
 ---
 
-### 📊 GitHub Stats
-![Jibin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jibinthomas1211&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jibinthomas1211&layout=compact&theme=tokyonight)
-
----
 *“Engineering solutions today for the challenges of tomorrow.”*
