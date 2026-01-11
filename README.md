@@ -19,10 +19,10 @@ I am a **Software Developer** focused on bridging the gap between AI research an
 ### 🛠️ Technical Arsenal
 | Category | Stack |
 | :--- | :--- |
-| **Languages** | [cite_start]Python, Java, JavaScript, VB.NET, C  |
-| **Frontend/Web** | [cite_start]React.js, Three.js, Node.js, HTML5, CSS3  |
-| **Cloud & DB** | [cite_start]AWS, Azure, PostgreSQL, Firebase, MySQL  |
-| **Design/Tools** | [cite_start]Figma, Git, Power BI, Android Studio  |
+| **Languages** | Python, Java, JavaScript, VB.NET, C  |
+| **Frontend/Web** | React.js, Three.js, Node.js, HTML5, CSS3  |
+| **Cloud & DB** | AWS, Azure, PostgreSQL, Firebase, MySQL  |
+| **Design/Tools** | Figma, Git, Power BI, Android Studio  |
 
 ---
 
